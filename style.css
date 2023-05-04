@@ -1,0 +1,30 @@
+body {
+  background-color: navy;
+  font-family:'Courier New', Courier, monospace;
+  color: white;
+  text-align: justify;
+
+}
+img {
+  border-radius: 50%;
+}
+h1 {
+  text-align: center;
+  font-family:'Courier New', Courier, monospace;
+}
+
+h1 {
+  background-color: deepskyblue ;
+  background-position: center;
+  opacity: 50%;
+  color: ghostwhite;
+}
+hr {
+  border-color: deepskyblue;
+  border-style:dotted none none;
+  border-width: 5px;
+  width: 5%;
+}
+a {
+  color: deepskyblue;
+}
